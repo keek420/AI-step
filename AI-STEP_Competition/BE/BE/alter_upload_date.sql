@@ -1,0 +1,1 @@
+ALTER TABLE IF EXISTS ai_step_competition ADD upload timestamp with time zone;
